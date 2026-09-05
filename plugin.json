@@ -5,15 +5,15 @@
   "description": "Fast HTML and CSS abbreviation expansion for Acode using Emmet syntax",
   "author": {
     "name": "Vick Xs",
-    "email": "vickxs.dev@example.com"
+    "github": "vickXs"
   },
   "icon": "icon.png",
   "readme": "README.md",
-  "changelog": "CHANGELOG.md",
+  "changelogs": "changelog.md",
   "license": "MIT",
   "main": "main.js",
   "engines": {
     "acode": ">= 1.5.0"
   },
-  "tags": ["emmet", "html", "css", "productivity"]
+  "keywords": ["emmet", "html", "css", "autocomplete", "productivity"]
 }
