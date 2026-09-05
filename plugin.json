@@ -1,10 +1,11 @@
 {
   "id": "acode_emmet",
   "name": "Emmet",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Fast HTML and CSS abbreviation expansion for Acode using Emmet syntax",
   "author": {
     "name": "Vick Xs",
+    "email": "vickxs.dev@gmail.com"
     "github": "vickXs"
   },
   "icon": "icon.png",
